@@ -1,7 +1,5 @@
 # test
 Repositorio de prueba documental
+prueba de ingreso de copia de la carpeta test del repositorio LRM
 
-
-
-Este codigo fue agregado como prueba por parte de jeisson
-
+Jeisson Paso por aca
